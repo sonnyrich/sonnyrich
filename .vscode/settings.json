@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "cinema"
+    "liveServer.settings.multiRootWorkspaceName": "cinema",
+    "liveServer.settings.port": 5501
 }
